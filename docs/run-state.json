@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-11-20T20:22:01Z",
+  "repository": "Freebielife/ARBUZ",
+  "launch_commit": "622adda10c8aa6b76e49dd0cf79ef2ee1df5282f",
+  "first_refresh": {
+    "run_id": 44809406098,
+    "event": "push",
+    "conclusion": "success",
+    "snapshot_commit": "1f891e23501b807935bf0784f1986fce40f82ca4",
+    "snapshot_errors": [],
+    "trades": 484
+  },
+  "cloudflare": {
+    "source_commit": "d2316c437584d473a6c573f825e7a627c9853f8d",
+    "build_conclusion": "success",
+    "cadence_minutes": 30,
+    "phase_minutes": 20,
+    "workflow_dispatch_seen": false,
+    "token_repository_access": "unverified"
+  },
+  "ton_site_published": false
+}
