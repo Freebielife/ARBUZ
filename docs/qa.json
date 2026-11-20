@@ -1,0 +1,29 @@
+{
+  "checked_on": "2026-11-20",
+  "tests": {
+    "node_passed": 15,
+    "python_passed": 17
+  },
+  "browser": {
+    "widths_px": [
+      360,
+      390,
+      768,
+      1280
+    ],
+    "horizontal_overflow": false,
+    "ru_en": true,
+    "currency_ton_usd": true,
+    "seller_rank": true,
+    "badge_filter": true,
+    "more_rows_after_click": 50,
+    "broken_internal_anchors": 0,
+    "external_render_assets": 0
+  },
+  "not_verified": [
+    "remote_snapshot_before_repository_creation",
+    "scheduled_runs_before_repository_creation",
+    "external_trading_pages_http_403",
+    "zero_address_transfers_source_error"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "arbuz",
+  "name": "ARBUZ",
+  "symbol": "ARBUZ",
+  "master": "EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1",
+  "decimals": 9,
+  "github": {
+    "owner": "Freebielife",
+    "repo": "ARBUZ"
+  },
+  "primary_pool": "EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da",
+  "pools": [
+    {
+      "address": "EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da",
+      "dex": "dedust",
+      "quote": "TON"
+    },
+    {
+      "address": "EQCRdCFj3oe20_880ID2BwO3C5v6Rkq8YKRsUQpDHmbKg4bw",
+      "dex": "dedust",
+      "quote": "TON"
+    },
+    {
+      "address": "EQCQYn1W68q_wx-S6owa0rRbryE77FOT-y_KgzKWmb5A6TKS",
+      "dex": "stonfi",
+      "quote": "TON"
+    }
+  ],
+  "links": {},
+  "services": {},
+  "badges": [],
+  "logo_file": "web/project-logo.webp"
+}

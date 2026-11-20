@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-11-20",
+  "master": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
+  "decimals": 9,
+  "logo_source": "https://i.postimg.cc/XJgVf7pb/arb.png",
+  "pool_proofs": {
+    "dedust_classic": {
+      "asset0": {
+        "sum_type": "Native",
+        "native": {},
+        "jetton": {
+          "workchain_id": 0,
+          "address": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        "extra_currency": {
+          "currency_id": 0
+        }
+      },
+      "asset1": {
+        "sum_type": "Jetton",
+        "native": {},
+        "jetton": {
+          "workchain_id": 0,
+          "address": "0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45"
+        },
+        "extra_currency": {
+          "currency_id": 0
+        }
+      }
+    },
+    "dedust_v2": {
+      "asset_x": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
+      "asset_y": "",
+      "base_fee_bps": 500,
+      "status": 2
+    },
+    "ston_wallet_masters": {
+      "token0": "0:0cd8a583a7d94dd18bf1bdf49b234af28c15f033bd2b6a4a4d2076ee1136ad45",
+      "token1": "0:8cdc1d7640ad5ee326527fc1ad0514f468b30dc84b0173f0e155f451b4e11f7c"
+    }
+  }
+}
