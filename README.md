@@ -1,5 +1,17 @@
 # ARBUZ Observatory
 
+## О проекте / токене
+
+ARBUZ — токен в сети TON. В метаданных он описан как межблокчейн-токен проекта Watermelon Festival. Это самоописание из метаданных; наличие действующих мостов и реализаций в других сетях здесь не подтверждено. Обсерватория отслеживает контракт ARBUZ в TON.
+
+Контракт в TON: `EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1`.
+
+Основа описания — метаданные указанного контракта. Проверено: **2026-11-22**.
+
+Источники:
+
+- <https://tonapi.io/v2/jettons/EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1>
+
 Мастер-контракт: `EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1`.
 Точность проверена по TonAPI: 9 знаков.
 Основа — генератор Ludoman; исправления генератора сохранены коммитом
